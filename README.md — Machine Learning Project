@@ -1,0 +1,18 @@
+
+---
+
+# 8. README.md — Machine Learning Project
+
+```md
+# ML Predictor
+
+Machine learning model for predictive analytics.
+
+## Dataset
+
+Dataset stored in `/data`.
+
+## Training
+
+```bash
+python train.py
