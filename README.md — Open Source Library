@@ -1,0 +1,14 @@
+
+---
+
+# 7. README.md — Open Source Library
+
+```md
+# Utility Library
+
+Reusable utility functions for developers.
+
+## Installation
+
+```bash
+npm install utility-library
